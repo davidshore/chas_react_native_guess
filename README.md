@@ -14,20 +14,12 @@ En enkel gissningslek består av följande delar:
 
 Ni ska skapa en enkel gissningslek med ovan listade funktioner. Använd följande steg och kodexempel som vägledning.
 
-### Förberedelser
-
-Installera Expo CLI genom att köra följande kommando:
-
-```
-npm install -g expo-cli
-```
-
 ### Steg för steg
 
 1. Skapa ett nytt projekt med Expo:
 
 ```
-expo init GuessingGame
+npx create-expo-app GuessingGame
 cd GuessingGame
 ```
 

@@ -19,7 +19,7 @@ Ni ska skapa en enkel gissningslek med ovan listade funktioner. Använd följand
 1. Skapa ett nytt projekt med Expo:
 
 ```
-npx create-expo-app GuessingGame
+npx create-expo-app --template blank GuessingGame 
 cd GuessingGame
 ```
 
